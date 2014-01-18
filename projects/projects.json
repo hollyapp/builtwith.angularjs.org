@@ -1609,6 +1609,20 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Holly",
+      "thumb": "holly/thumb.png",
+      "desc": "To-do lists for nerds.",
+      "url": "https://hollyapp.com",
+      "submitter": "henning-koch",
+      "submissionDate": "2014-01-18",
+      "tags": [
+        "Production",
+        "To-do lists", "Task Tracking", "Productivity", "GTD",
+        "Realtime", "WebSockets", "Ruby on Rails",
+        "jQuery"
+      ]
     }
   ]
 }
